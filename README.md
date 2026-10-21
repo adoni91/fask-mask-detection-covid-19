@@ -1,2 +1,4 @@
 # fask-mask-detection-covid-19
-A Face-Mask Detection System Based on Deep Learning Convolutional Neural Networks
+The alarming situation caused by COVID-19 has prompted the artificial intelligence community to think about using new tools in order to contribute to the fight against COVID-19. Computer vision is a sub-discipline of AI that is blossoming since 2010s and helps in diverse fields like robotics, self-driving cars, health care by handling very complex nonlinear problems. In the wake of this, its contribution to the fight against COVID-19 has to be taken into account. In fact, only a few works have been published recently in that regard despite the seriousness of the situation. This is what fueled our desire to make a contribution. This work is intended to elaborate very powerful and robust mask detection model enabling the detection of not only individuals wearing the recommended masks from those who don’t, but the detection of a third category of people not wearing it appropriately is also taken into account by our model.
+
+
